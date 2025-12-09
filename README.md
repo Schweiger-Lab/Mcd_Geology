@@ -2,6 +2,8 @@
 
 This repository includes scripts associated with mapping geological predictions from EMIT imagery in the McDermitt Caldera.  
 
+Mapping of final predictions was done using ArcGIS Pro software and the output prediction csv. 
+
 ---
 
 ## Project Structure
