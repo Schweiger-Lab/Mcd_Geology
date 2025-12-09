@@ -4,10 +4,10 @@ This repository includes scripts associated with mapping geological predictions 
 
 ---
 
-### Project Structure
+## Project Structure
 
-- R_input/ : raw input data (NetCDF, shapefiles)
-- R_output/ : generated outputs (CSV, figures, models)
+- R_input/ : input data (EMIT tile, shapefile of geologic units from Henry et al.)
+- R_output/ : generated outputs (CSVs, Plots, Models)
 - R_scripts/ : analysis scripts
   - 01_Converter.R
   - 02_NDVI.R
@@ -19,7 +19,8 @@ This repository includes scripts associated with mapping geological predictions 
   - 08_Predictor.R
 
 
-### Workflow
+
+## Workflow
 
 **01_Converter.R**: Converts EMIT NetCDF into CSV. 
 
@@ -38,7 +39,8 @@ This repository includes scripts associated with mapping geological predictions 
 **08_Predictor**: Applies trained PLSDA models to all pixels for mapping predictions.
 
 
-### Dependencies
+
+## Dependencies
 
 All scripts are written in R. 
 
