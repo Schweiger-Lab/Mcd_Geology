@@ -58,7 +58,7 @@ Required packages include:
 `agricolae`
 `ggplot2`
 
-Install all of above wiht: 
+Install all of above with: 
 ```r
 install.packages(c("ncdf4","sp","raster","dplyr","caret","reshape","corrplot","agricolae","ggplot2"))
 ```
