@@ -63,3 +63,5 @@ Install all of above with:
 install.packages(c("ncdf4","sp","raster","dplyr","caret","reshape","corrplot","agricolae","ggplot2"))
 ```
 
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/638c8331-abfd-4923-81ab-fc8f31653e45" />
+
